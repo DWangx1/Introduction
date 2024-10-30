@@ -25,7 +25,7 @@ I'm currently a Data Analyst with a passion for turning data into actionable ins
 - [LinkedIn](www.linkedin.com/in/davidwangq123aca)
 
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
 
 <!-- You can add a theme to your stats by appending &theme=THEME_NAME to the end of the URL  -->
 
