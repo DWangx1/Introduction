@@ -10,8 +10,8 @@ I'm currently a Data Analyst with a passion for turning data into actionable ins
 
 ## Skills and Interests
 
-- **Languages & Tools:** Python, R, SQL, SAS, PowerBI
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib
+- **Languages & Tools:** R, SQL, SAS, PowerBI, Python
+- **Libraries & Frameworks:** dplyr, ggplot2, caret (R), Pandas, NumPy, Matplotlib
 - **Interests:** Machine Learning, Data Visualization, Data Analysis
 
 
