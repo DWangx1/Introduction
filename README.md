@@ -11,14 +11,9 @@ I'm currently a Data Analyst with a passion for turning data into actionable ins
 ## Skills and Interests
 
 - **Languages & Tools:** Python, R, SQL, SAS, PowerBI
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, [Any Other Libraries/Frameworks]
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib
 - **Interests:** Machine Learning, Data Visualization, Data Analysis
 
-## Projects
-
-[Project Title 1](Link to Project) - Brief description
-
-[Project Title 2](Link to Project) - Brief description
 
 ## Connect with Me
 
