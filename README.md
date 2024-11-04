@@ -14,6 +14,11 @@ I'm currently a Data Analyst with a passion for turning data into actionable ins
 - **Libraries & Frameworks:** dplyr, ggplot2, caret (R), Pandas, NumPy, Matplotlib
 - **Interests:** Machine Learning, Data Visualization, Data Analysis
 
+## Projects
+
+**[STAT-360-MARS-Project](https://github.com/DWangx1/STAT-360-MARS-Project)**: An exploration of multivariate adaptive regression splines (MARS), implemented in R.
+**[Carseats-sales-prediction](https://github.com/DWangx1/Carseats-sales-prediction)**: Predictive modeling of car seat sales using statistical techniques in R.
+**[Supermarket-sales](https://github.com/DWangx1/Supermarket-sales)**: Power BI dashboard analyzing supermarket sales data.
 
 ## Connect with Me
 
